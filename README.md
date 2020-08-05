@@ -1,2 +1,2 @@
-# Class-21
-Creating arguments for functions
+# bounceOffAlgorithm
+Algorithm to bounce off two objects
